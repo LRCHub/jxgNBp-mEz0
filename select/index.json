@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "届く、未来へ",
+  "base_artist": "あたらよ",
+  "createdAt": "2026-02-24T15:17:52.576616Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "届く、未来へ",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/01_届く、未来へ_あたらよ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "届く、未来へ",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/02_届く、未来へ_あたらよ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "届く、未来へ",
+      "artist": "ATARAYO (あたらよ)",
+      "has_synced": true,
+      "path": "select/03_届く、未来へ_ATARAYO_(あたらよ).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "届く、未来へ",
+      "artist": "あたらよ",
+      "has_synced": false,
+      "path": "select/pl_01_届く、未来へ_あたらよ.txt"
+    }
+  ]
+}
